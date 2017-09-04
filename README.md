@@ -1,4 +1,7 @@
 # MapNavigatorPlugin
+![](https://img.shields.io/npm/v/cordova-plugin-mapnavigator.svg?style=flat-square)
+![](https://img.shields.io/npm/dt/cordova-plugin-mapnavigator.svg?maxAge=2592000%3Fstyle=flat-square)
+
 ionic2 地图导航跳转第三方应用(优先跳转百度地图,若没安装会自动跳转高德地图, 若都没有安装则提示需要安装)
 
 
