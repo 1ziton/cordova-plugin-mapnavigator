@@ -1,4 +1,7 @@
 # MapNavigatorPlugin
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/1ziton/cordova-plugin-mapnavigator.svg)](https://greenkeeper.io/)
+
 ![](https://img.shields.io/npm/v/cordova-plugin-mapnavigator.svg?style=flat-square)
 ![](https://img.shields.io/npm/dt/cordova-plugin-mapnavigator.svg?maxAge=2592000%3Fstyle=flat-square)
 
